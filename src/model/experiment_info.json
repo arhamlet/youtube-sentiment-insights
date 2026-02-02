@@ -1,0 +1,4 @@
+{
+    "run_id": "88aec98f0dbb4373961cf771c6d942f8",
+    "model_path": "s3://arham-mlflow-bucket/7/88aec98f0dbb4373961cf771c6d942f8/artifacts/lgbm_model"
+}
